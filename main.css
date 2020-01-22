@@ -1,0 +1,388 @@
+ .home {
+      background-image: url("img/header.png");
+      height: 800px;
+      margin-top: 0px;
+ }
+
+ .logo {
+      background: #C4C4C4;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 38.6667px;
+      line-height: 45px;
+ }
+
+ .menu-brand {
+      background: #C4C4C4;
+      padding-left: 5%;
+      padding-right: 5%;
+      margin-right: 55%;
+ }
+
+ .ebook {
+      background: #E46B50;
+      border-radius: 5px;
+      margin-left: 80%;
+ }
+
+ .title-home {
+      padding-top: 40%;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 56px;
+      line-height: 56px;
+      color: #FFFFFF;
+ }
+
+ .subtitle {
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 24px;
+      line-height: 28px;
+      color: #FFFFFF;
+ }
+
+ .input-name {
+      background: #E8E8E8;
+      box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 34px;
+      height: 50px;
+      width: 300px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 24px;
+      line-height: 28px;
+      text-align: center;
+      color: #4D4D4D;
+ }
+
+ .input-email {
+      background: #E8E8E8;
+      box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 34px;
+      height: 50px;
+      width: 300px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 24px;
+      line-height: 28px;
+      text-align: center;
+      color: #4D4D4D;
+ }
+
+ .btn-signup {
+      background: #E46B50;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 5px;
+      height: 50px;
+      width: 300px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 28px;
+      text-align: center;
+      color: #FFFFFF;
+ }
+
+ .input-ebook {
+      background: #E8E8E8;
+      box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 34px;
+      height: 50px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 28px;
+      text-align: center;
+      margin-right: 20px;
+      color: #4D4D4D;
+ }
+
+ .form-ebook h3 {
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 34px;
+      line-height: 40px;
+      margin-bottom: 2%;
+      color: #65216B;
+ }
+
+ .form2 {
+      width: fit-content;
+      margin-top: 1370px;
+      margin-left: 270px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 25px;
+      line-height: 30px;
+      margin-bottom: 6%;
+      color: #65216B;
+ }
+
+ .btn-download {
+      background: #E46B50;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 5px;
+      height: 50px;
+      width: 250px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 28px;
+      text-align: center;
+      color: #FFFFFF;
+ }
+
+ /*Conteúdo do blog */
+
+ .content-blog {
+      margin-top: 10%;
+ }
+
+ .test {
+      margin-left: 10%;
+ }
+
+ .btn-blog {
+      background: #65216B;
+      box-shadow: 0px 3.30238px 3.30238px rgba(0, 0, 0, 0.25);
+      border-radius: 4.12798px;
+ }
+
+ /*Newsletter */
+
+ .newsletter h3 {
+      margin-top: 10%;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 34px;
+      line-height: 40px;
+      margin-bottom: 2%;
+      color: #65216B;
+ }
+
+ .dicas {
+      font-family: Roboto;
+      font-style: Bold;
+      font-size: (mixed);
+      line-height: 100%;
+      text-align: Left;
+      vertical-align: Top;
+      Fill: Solid;
+      color: #65216B
+ }
+
+ #text {
+      position: absolute;
+      width: 830px;
+      height: 110px;
+      left: 268px;
+      top: 906px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 28px;
+      text-align: justify;
+      color: #292929;
+ }
+
+ #text2 {
+      position: absolute;
+      width: 830px;
+      height: 257px;
+      left: 268px;
+      top: 1126px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 28px;
+      text-align: justify;
+      color: #292929;
+ }
+
+ #text3 {
+      position: absolute;
+      width: 830px;
+      height: 262px;
+      left: 268px;
+      top: 1719px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 28px;
+      text-align: justify;
+      color: #292929;
+ }
+
+ #title {
+      position: absolute;
+      width: 830px;
+      height: 150px;
+      left: 268px;
+      top: 139px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 64px;
+      line-height: 75px;
+      text-align: center;
+      /* Roxo padrão */
+      color: #65216B;
+ }
+
+ #subtitle2 {
+      position: absolute;
+      width: 830px;
+      height: 56px;
+      left: 268px;
+      top: 1621px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 56px;
+      /* Roxo padrão */
+      color: #65216B;
+ }
+
+ .ebook {
+      left: 3.03%;
+      right: 0%;
+      top: 7.14%;
+      bottom: 0%;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 34px;
+      line-height: 40px;
+      color: #65216B;
+ }
+
+ .second-input-name {
+      background: #E8E8E8;
+      box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 34px;
+      height: 50px;
+      width: 100px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 24px;
+      text-align: center;
+      color: #4D4D4D;
+ }
+
+ .second-input-email {
+      background: #E8E8E8;
+      box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 34px;
+      height: 50px;
+      width: 100px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 24px;
+      line-height: 24px;
+      text-align: center;
+      color: #4D4D4D;
+ }
+
+ .second-button {
+      background: #E46B50;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 5px;
+      height: 50px;
+      width: 100px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 24px;
+      text-align: center;
+      color: #FFFFFF;
+ }
+
+ .second-input-ebook {
+      background: #E8E8E8;
+      box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 34px;
+      height: 50px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 24px;
+      text-align: center;
+      margin-right: 20px;
+      color: #4D4D4D;
+ }
+
+ .camel {
+      position: absolute;
+      margin-top: 200px;
+      margin-left: 245px;
+ }
+
+ #subtitle1 {
+      position: absolute;
+      width: 830px;
+      height: 56px;
+      left: 268px;
+      top: 1028px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 56px;
+      /* Roxo padrão */
+      color: #65216B;
+ }
+
+ .last-form {
+      margin-top: 500px;
+      margin-left: 210px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 25px;
+      line-height: 30px;
+      margin-bottom: 6%;
+      color: #65216B;
+      width: fit-content;
+ }
+
+ .thanks{
+
+position: absolute;
+width: 466.14px;
+height: 326.3px;
+left: 798px;
+top: 233.7px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 55.9371px;
+line-height: 66px;
+text-align: center;
+
+/* Roxo padrão */
+
+color: #65216B;
+ }
